@@ -1,0 +1,14 @@
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\bin\Debug\net8.0\SocketServer.exe
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\bin\Debug\net8.0\SocketServer.deps.json
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\bin\Debug\net8.0\SocketServer.runtimeconfig.json
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\bin\Debug\net8.0\SocketServer.dll
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\bin\Debug\net8.0\SocketServer.pdb
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfo.cs
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\SocketServer.dll
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\refint\SocketServer.dll
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\SocketServer.pdb
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\SocketServer.genruntimeconfig.cache
+C:\Users\Client\Desktop\Practice\SocketAssignmentSolution\SocketAssignment\SocketServer\obj\Debug\net8.0\ref\SocketServer.dll

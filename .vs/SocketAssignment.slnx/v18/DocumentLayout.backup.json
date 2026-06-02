@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDD3FC2-64A7-CDDE-3F98-E0B1B695917D}|SocketServer\\SocketServer.csproj|c:\\users\\client\\desktop\\practice\\socketassignmentsolution\\socketassignment\\socketserver\\services\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDD3FC2-64A7-CDDE-3F98-E0B1B695917D}|SocketServer\\SocketServer.csproj|solutionrelative:socketserver\\services\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574ECAD1-D36D-A64B-CEAB-46160618C167}|SocketClient\\SocketClient.csproj|c:\\users\\client\\desktop\\practice\\socketassignmentsolution\\socketassignment\\socketclient\\services\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574ECAD1-D36D-A64B-CEAB-46160618C167}|SocketClient\\SocketClient.csproj|solutionrelative:socketclient\\services\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574ECAD1-D36D-A64B-CEAB-46160618C167}|SocketClient\\SocketClient.csproj|c:\\users\\client\\desktop\\practice\\socketassignmentsolution\\socketassignment\\socketclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574ECAD1-D36D-A64B-CEAB-46160618C167}|SocketClient\\SocketClient.csproj|solutionrelative:socketclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDD3FC2-64A7-CDDE-3F98-E0B1B695917D}|SocketServer\\SocketServer.csproj|c:\\users\\client\\desktop\\practice\\socketassignmentsolution\\socketassignment\\socketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDD3FC2-64A7-CDDE-3F98-E0B1B695917D}|SocketServer\\SocketServer.csproj|solutionrelative:socketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\SocketClient\\Services\\Client.cs",
+              "RelativeDocumentMoniker": "SocketClient\\Services\\Client.cs",
+              "ToolTip": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\SocketClient\\Services\\Client.cs",
+              "RelativeToolTip": "SocketClient\\Services\\Client.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAApwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:41:13.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\SocketServer\\Services\\Server.cs",
+              "RelativeDocumentMoniker": "SocketServer\\Services\\Server.cs",
+              "ToolTip": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\SocketServer\\Services\\Server.cs",
+              "RelativeToolTip": "SocketServer\\Services\\Server.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAMwGYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:31:12.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\SocketClient\\Program.cs",
+              "RelativeDocumentMoniker": "SocketClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\SocketClient\\Program.cs",
+              "RelativeToolTip": "SocketClient\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:20:00.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\SocketServer\\Program.cs",
+              "RelativeDocumentMoniker": "SocketServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Client\\Desktop\\Practice\\SocketAssignmentSolution\\SocketAssignment\\SocketServer\\Program.cs",
+              "RelativeToolTip": "SocketServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:19:16.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
